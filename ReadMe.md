@@ -69,10 +69,10 @@ The project uses a MySQL database to manage user information, honey types, inven
 
 ## Contributing
 
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests
 
 1. Fork the repository.
 2. Create a new branch for your feature: `git checkout -b feature-name`
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request.
+5. Submit a pull request
